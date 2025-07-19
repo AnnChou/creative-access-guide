@@ -19,13 +19,22 @@ When the director of my **UBC Behavioural Insight Foundation course** asked for 
 
 ## 📚 Contents
 
-- [accessibility_rider.md](https://github.com/AnnChou/creative-access-guide/blob/main/accessibility_rider.md) – accessibility rider for workshops and meetings across mixed abilities  
--  [etiquette_guide.md](https://github.com/AnnChou/creative-access-guide/blob/main/etiquette_guide.md) – inclusive communication practices (online and creative)
-- - [quick_tip_sheet.md](https://github.com/AnnChou/creative-access-guide/blob/main/quick_tip_sheet.md) – 1-page accessibility checklist for facilitators and organizers
-- [Service & Guide Dog Welcome Poster](https://github.com/AnnChou/creative-access-guide/blob/main/print/service_dog_poster_welcome.png) – visual signage for welcoming service and guide dogs into creative spaces
-- [facilitation_self_reminder.md](https://github.com/AnnChou/creative-access-guide/blob/main/facilitation_self_reminder.md) – self-reminder for hard of hearing facilitators leading access-centered gatherings
+### 📝 Written Guides  
+- [accessibility_rider.md](https://github.com/AnnChou/creative-access-guide/blob/main/accessibility_rider.md) – accessibility rider for workshops and ### 📝 Written Guides  
+- [accessibility_rider.md](https://github.com/AnnChou/creative-access-guide/blob/main/accessibility_rider.md) – access rider for workshops and mixed-modality gatherings  
+- [etiquette_guide.md](https://github.com/AnnChou/creative-access-guide/blob/main/etiquette_guide.md) – inclusive communication practices (online and creative)  
+- [quick_tip_sheet.md](https://github.com/AnnChou/creative-access-guide/blob/main/quick_tip_sheet.md) – 1-page accessibility checklist for facilitators and organizers  
+- [facilitation_self_reminder.md](https://github.com/AnnChou/creative-access-guide/blob/main/facilitation_self_reminder.md) – self-reminder for hard of hearing facilitators leading access-centered spaces  
+
+### 🖼️ Visual & Printable Assets  
+- [Service & Guide Dog Welcome Poster](https://github.com/AnnChou/creative-access-guide/blob/main/print/service_dog_poster_welcome.png) – signage welcoming service and guide dogs  
 - `visual_banner.png` – lantern motif symbolizing interdependent access  
-- `README.md` – this file
+
+### 🧮 Tools in Progress  
+- [access_centered_ux_scorecard.md](https://github.com/AnnChou/creative-access-guide/blob/main/ux_scorecard/access_centered_ux_scorecard.md) – lightweight UX evaluation scorecard for public service teams *(coming soon)*  
+
+### 📄 Meta  
+- `README.md` – this file  
 
 ---
 ## 🖨️ How to Print Guides in markdown (.md) format as PDF
@@ -130,6 +139,33 @@ The expanded rider used by our cross-disability working group also includes:
 - 🌍 Respect for shifting communication modes — **text, gesture, silence, visual, tactile**
 
 This public guide reflects those values, with space to grow.
+
+---
+## 🧮 Access-Centered UX Scorecard (Work in Progress)
+
+A developing resource for public sector and service design teams aiming to evaluate user experience through an accessibility lens — especially when **direct user testing is limited**.
+
+Designed by **Ann K. Chou**, this scorecard blends:
+- Behavioral insight frameworks  
+- Inclusive design literature  
+- Equity-centered UX prompts
+
+### 🧠 Key Features (in spreadsheet format)
+- Five structured tabs for:
+  - Dimensions of access  
+  - Interpretive grading scale  
+  - Persona-grounded reflection  
+  - Comprehension and emotional burden metrics  
+  - Notes for iteration and internal dialog
+
+This tool helps teams **internalize access as a quality**, not a checkbox — and invites thoughtful UX evaluation across inclusive dimensions.
+
+🗂️ This resource will be added as:  
+- `access_centered_ux_scorecard.xlsx` — core spreadsheet  
+- `ux_scorecard_overview.md` — written description & instructions  
+- *(coming soon in `ux_scorecard/` folder)*
+
+> Want to co-develop or test the scorecard in your context? Feel free to reach out or open an issue. Contributions rooted in lived experience and public service are especially welcome.
 
 ---
 
