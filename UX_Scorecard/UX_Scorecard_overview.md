@@ -13,6 +13,8 @@ This scorecard offers a structured way to assess user experience with an **acces
 - Behavioral insight units seeking structured UX heuristics
 - Accessibility coordinators mapping **task success**, **comprehension**, and **emotional burden**
 
+  ![UX Scorecard Spreadsheet Preview](./UX_Scorecard/UX_Scorecard.png)
+
 ---
 ## 🛠️ Access-Centered UX Scorecard Development Process (Simplified)
 
