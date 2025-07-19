@@ -11,7 +11,7 @@ As someone who is hard of hearing and neurodiverse, my earliest guides focused o
 
 During the COVID-19 pandemic, online spaces opened up new possibilities for cross-disability connection — and my guides began to evolve. Collaborating with other disabled creatives, we shaped tools grounded in interdependence, sensory care, anti-stigma language, and shared access culture.
 
-When the director of my UBC Behavioural Insight Foundation course reached out to ask for my communication guide — after seeing it in my email signature — I knew these tools could resonate beyond disability circles. They belong to anyone cultivating dignity in how we meet, create, and collaborate.
+**
 ---
 ## 📚 Contents
 - accessibility_rider.pdf – for workshops and meetings across mixed abilities
