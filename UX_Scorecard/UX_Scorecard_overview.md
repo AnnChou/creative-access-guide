@@ -140,11 +140,22 @@ Coming soon:
 
 ---
 
-## 🕯️ Closing Note
+## 🕯️ Closing Reflection
+This scorecard was built when direct access to users wasn’t possible — but trust, care, and reflection still guided the process.
 
-This scorecard was shaped in quiet hours — with field notes, staff interviews, and creative refusals of the checkbox model.  
-Use it where perfection is impossible and dignity is urgent.  
-Adapt it, expand it, co-hold it.
+I leaned on my critical circle, feedback from my director, and years of working in systems where access is both a right and a challenge. The tool was designed to support a branch-wide OKR (Objective + Key Result) after our migration from the Ministry of Citizens’ Services to the Office of the Chief Information Officer (OCIO).
+
+That transition brought uncertainty — in culture, structure, and job security. In that liminal moment, we still needed a way to center dignity, inclusion, and thoughtful decision-making in our work.
+
+The Access-Centered UX Scorecard became a way to hold clarity in complexity, and anchor care in the absence of perfect information.
+
+It’s not a perfect tool — but it’s a practical poem, built to illuminate what’s working, where care is missing, and what new ways of working are possible.
+
+Thank you for carrying the lantern forward.
+Access isn’t just a checklist — it’s a way of being together.
+
+— Ann K. Chou
+📍 @annreflection | annchou.github.io
 
 We measure access not just by what’s usable — but by what welcomes.
 
