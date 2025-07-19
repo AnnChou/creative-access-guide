@@ -160,7 +160,7 @@ Designed by **Ann K. Chou**, this scorecard blends:
 
 This tool helps teams **internalize access as a quality**, not a checkbox — and invites thoughtful UX evaluation across inclusive dimensions.
 
-![UX Scorecard Spreadsheet Preview](./ux_scorecard/ux_scorecard.png)
+![UX Scorecard Spreadsheet Preview](./UX_Scorecard/UX_Scorecard.png)
 
 **Alt-text**: Screenshot of the Access-Centered UX Scorecard spreadsheet (v0.7b) showing UX dimension rows, evaluation prompts, grading scale, and audience mapping column.
 
@@ -168,7 +168,7 @@ This tool helps teams **internalize access as a quality**, not a checkbox — an
 A lightweight, heuristic-based tool for evaluating accessibility and experience in public-facing digital services.  
 Includes audience mapping, interpretive grading, and inclusive UX prompts designed for non-user-testing environments.
 
-🗂️ [View the UX Scorecard Overview](https://github.com/AnnChou/creative-access-guide/blob/main/ux_scorecard/ux_scorecard_overview.md)
+🗂️ [View the UX Scorecard Overview](https://github.com/AnnChou/creative-access-guide/blob/main/UX_Scorecard/UX_Scorecard_overview.md)
 
 > Want to co-develop or test the scorecard in your context? Feel free to reach out or open an issue. Contributions rooted in lived experience and public service are especially welcome.
 
