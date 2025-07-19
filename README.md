@@ -25,3 +25,35 @@ Access is communal, evolving, and ever-lit — like flame passed hand to hand. T
 
 With ink, rhythm, and lantern light, — Ann K. Chou   (@annreflection)  [https://annchou.github.io](https://annchou.io.github.io)
 ---
+## 📜 License
+This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).
+
+You are welcome to:
+
+🔄 Adapt and remix the materials for non-commercial use
+
+🧾 Share with others under the same license
+
+🖋️ Provide attribution as:
+
+Access is collective, and credit honors the path.
+--
+## 🤲 Contributions
+I welcome respectful collaboration, especially from lived experience:
+
+📥 Open an issue with feedback, additions, or ideas
+
+📤 Submit pull requests for typo fixes, formatting improvements, or additional formats (e.g. screen-reader optimized versions)
+
+🌍 If you'd like to translate, adapt for different cultural contexts, or bring these guides to another modality (video, tactile, etc.), please let me know — I'd love to support that process
+
+Note: All contributions should align with the values of access, dignity, and creative interdependence. Harmful or extractive edits will be closed.
+--
+## 🕯️ Footer Message
+This guide began in shared silence and steady listening — shaped through lantern-lit collaboration across disabled creatives during the pandemic.
+
+It isn't a policy, but a poem of care.
+
+Access is not a checklist, it's a commitment.
+
+May this repository be a quiet companion for those building new worlds, where everyone arrives whole.
