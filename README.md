@@ -27,7 +27,7 @@ When the director of my **UBC Behavioural Insight Foundation course** asked for 
 - `README.md` – this file
 
 ---
-## 🖨️ How to Print Guides as PDF
+## 🖨️ How to Print Guides in markdown (.md) format as PDF
 
 If you'd like to download or print any guide (like `accessibility_rider.md`) as a **PDF**, here are a few options:
 
