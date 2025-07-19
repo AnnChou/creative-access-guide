@@ -20,7 +20,7 @@ When the director of my **UBC Behavioural Insight Foundation course** asked for 
 ## 📚 Contents
 
 - [accessibility_rider.md](https://github.com/AnnChou/creative-access-guide/blob/main/accessibility_rider.md) – accessibility rider for workshops and meetings across mixed abilities  
-- `etiquette_guide.md` – inclusive communication practices (online and creative)  
+-  [etiquette_guide.md](https://github.com/AnnChou/creative-access-guide/blob/main/etiquette_guide.md) – inclusive communication practices (online and creative)
 - `quick_tip_sheet.pdf` – 1-page checklist for event organizers  
 - `guide_dog_welcome_poster.png` – visual sign welcoming service animals  
 - `visual_banner.png` – lantern motif symbolizing interdependent access  
