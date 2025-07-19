@@ -106,13 +106,16 @@ I welcome respectful collaboration — especially grounded in lived experience a
 
 ---
 
-## 🦮 Guide Dog Welcome Poster
+## 🦮 Servie & Guide Dog Welcome Poster
 
-Created during my **WorkAble internship**, this sign invites service and guide dogs not just legally, but **culturally and emotionally**.  
-Suitable for print, signage, or digital sharing in inclusive spaces.
+Created during my **WorkAble internship**, this visual sign affirms that service and guide dogs are not only legally permitted, but **culturally embraced** in creative and collaborative spaces.
+
+![Service & Guide Dogs Welcome Poster Preview](./print/service_dog_poster_welcome.png)
 
 **Alt-text**:  
-> Illustration of a guide dog in harness entering a warmly lit art space. Text reads: “Service & Guide Dogs Welcome — This is a space of care, calm, and companionship.”
+> Illustration of a guide dog in harness accompanying a gender-neutral person as they approach the entrance of a warmly lit art space. Text reads: “Service & Guide Dogs Welcome Here — Everyone deserves access."
+🖨️ This poster is print-friendly and can be shared digitally or used as signage at events, workshops, and studios. It signals that **access and dignity walk beside us.**
+
 
 ---
 
