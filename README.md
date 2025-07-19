@@ -48,7 +48,7 @@ Use `pandoc` in your terminal or command line:
 
 ```bash
 pandoc accessibility_rider.md -o accessibility_rider.pdf
-
+```
 
 ---
 
