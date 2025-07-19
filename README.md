@@ -16,7 +16,7 @@ When the director of my UBC Behavioural Insight Foundation course reached out to
 
 ---
 ## 📚 Contents
-- accessibility_rider.pdf – for workshops and meetings across mixed abilities
+- (accessibility_rider.md) (https://github.com/AnnChou/creative-access-guide/blob/main/accessibility_rider.md)– for workshops and meetings across mixed abilities
 - etiquette_guide.md – inclusive communication practices (online and creative)
 - quick_tip_sheet.pdf – 1-page checklist for event organizers
 - README.md – this intro, plus version notes and update logs
