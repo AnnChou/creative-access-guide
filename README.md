@@ -27,6 +27,29 @@ When the director of my **UBC Behavioural Insight Foundation course** asked for 
 - `README.md` – this file
 
 ---
+## 🖨️ How to Print Guides as PDF
+
+If you'd like to download or print any guide (like `accessibility_rider.md`) as a **PDF**, here are a few options:
+
+### 🔹 Option 1: Using Your Web Browser
+1. Open the Markdown file on GitHub or a preview tool (e.g. [Dillinger](https://dillinger.io))
+2. Press **Ctrl + P** (Windows) or **Cmd + P** (Mac) to open print settings
+3. Select **“Save as PDF”**
+4. Choose layout settings and click **Save**
+
+### 🔹 Option 2: Using a Markdown Editor (e.g. Typora)
+1. Install [Typora](https://typora.io)
+2. Open the `.md` file
+3. Go to **File → Export → PDF**
+4. Choose your format and export
+
+### 🔹 Option 3: For Advanced Users
+Use `pandoc` in your terminal or command line:
+
+```bash
+pandoc accessibility_rider.md -o accessibility_rider.pdf
+
+---
 
 ## 🛠️ How to Use
 
