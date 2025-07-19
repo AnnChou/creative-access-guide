@@ -76,6 +76,23 @@ You may:
 > Access is collective, and credit honors the path.
 
 ---
+## 📌 Citation
+
+If you'd like to cite this resource in your project, paper, or toolkit, please use one of the following formats:
+
+### 🔹 APA Style
+Chou, A. K. (2025). *Accessibility Resources: Inclusive Communication & Creative Access* [GitHub repository]. https://github.com/AnnChou/creative-access-guide
+
+### 🔹 MLA Style
+Chou, Ann K. "Accessibility Resources: Inclusive Communication & Creative Access." GitHub, 2025, https://github.com/AnnChou/creative-access-guide.
+
+### 🔹 Human-Readable Format
+Chou, Ann K. (2025). *Accessibility Resources: Inclusive Communication & Creative Access*. GitHub Repository. Retrieved from: https://github.com/AnnChou/creative-access-guide
+
+> 🕯️ Feel free to adapt these citations to match your style guide or medium.  
+> Credit sustains the path of access and care.
+
+---
 
 ## 🤲 Contributions
 
