@@ -116,7 +116,7 @@ I welcome respectful collaboration — especially grounded in lived experience a
 
 ---
 
-## 🦮 Servie & Guide Dog Welcome Poster
+## 🦮 Service & Guide Dog Welcome Poster
 
 Created during my **WorkAble internship**, this visual sign affirms that service and guide dogs are not only legally permitted, but **culturally embraced** in creative and collaborative spaces.
 
