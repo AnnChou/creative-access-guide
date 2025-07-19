@@ -43,11 +43,12 @@ If you'd like to download or print any guide (like `accessibility_rider.md`) as 
 3. Go to **File → Export → PDF**
 4. Choose your format and export
 
-### 🔹 Option 3: For Advanced Users
+### 🔹 Option 3: For Advanced Users  
 Use `pandoc` in your terminal or command line:
 
 ```bash
 pandoc accessibility_rider.md -o accessibility_rider.pdf
+
 
 ---
 
