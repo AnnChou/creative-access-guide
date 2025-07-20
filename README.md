@@ -190,4 +190,11 @@ With ink, rhythm, and lantern light,
 [@annreflection](https://www.instagram.com/annreflection/)  
 [annchou.github.io](https://annchou.github.io)
 
+---
+# About me:
+Interdisciplinary designer and informatics researcher exploring how care, creativity, and computation intersect.
+I work with HL7 FHIR, D3.js, and Unity to prototype inclusive systems—from ePROMS portals to sumi-e inspired art tools and virtual instruments for sensory play.
 
+🌿 Health IT · Creative Tech · Accessibility
+🎨 Sumi-e x Unity | Virtual Music Keyboard | Data Vis & Reasoning
+📍 Based in BC · annchou.github.io
